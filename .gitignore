@@ -1,0 +1,8 @@
+test/deployment/
+.classpath
+.project
+*.launch
+*.tmp
+*.lock
+*.bak
+.idea/
